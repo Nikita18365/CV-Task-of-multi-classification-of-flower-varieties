@@ -41,6 +41,7 @@ After cross-validation, the model is evaluated on a completely invisible test da
 The test set includes a random sample from flower_photos.tgz for which the class labels are known.
 
 The final accuracy is reported, as well as the possibility of creating confusion matrices and classification reports.
+
 **Tech Stack:**
 - Python 3.x
 - TensorFlow / Keras
