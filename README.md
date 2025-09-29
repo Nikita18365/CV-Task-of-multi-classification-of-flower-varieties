@@ -47,3 +47,14 @@ The final accuracy is reported, as well as the possibility of creating confusion
 - TensorFlow / Keras
 - OpenCV
 - NumPy, Matplotlib, scikit-learn
+
+**The dataset was taken from the article at the link: https://habr.com/ru/articles/458170/?ysclid=mg554qgilf531769244
+The dataset was created for the task of multiclassing flower varieties based on their images.
+The dataset is presented in *.tgz format.
+There is no division into train/valid/test samples inside the archive.
+The dataset contains 5 folders that correspond to the following targets:
+- daisy
+- dandelion
+- roses
+- sunflowers
+- tulips
